@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "wordle.h": "c",
+        "stdio.h": "c"
+    }
+}
