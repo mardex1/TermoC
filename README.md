@@ -15,8 +15,8 @@ make
 
 ## Futuras implementações
 
-- Checar se uma palavra é válida
-- Tornar possível jogar Dueto e Quarteto
+- Checar se uma palavra existe.
+- Tornar possível jogar Dueto e Quarteto.
 
 ## Informações adicionais
 
