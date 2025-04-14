@@ -6,10 +6,10 @@ SRCDIR = ./src/
 
 SOURCES = $(SRCDIR)*.c
 
-all: wordle run debug clean
+all: wordle run clean
 
 wordle:
-	$(CC) -g $(SOURCES) $(CFLAGS) -o $@
+	$(CC) $(SOURCES) $(CFLAGS) -o $@
 
 run:
 	./wordle

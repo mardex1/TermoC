@@ -1,6 +1,6 @@
 #include "wordle.h"
 
-int NUMBER_WORDS = 6028;
+int NUMBER_WORDS = 5350;
 
 char* getWord() {
     srand(time(NULL));
